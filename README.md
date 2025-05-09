@@ -6,7 +6,7 @@ Welcome to the **Somalia Climate-Conflict-Displacement Research** repository. Th
 
 The repository includes:
 - **Datasets:** Aggregated drought, flood, conflict, and displacement data relevant to Somalia, sourced from relevent databases.
-- **Scripts:** Python/R scripts used for data analysis, modeling, and generating the outputs.
+- **Scripts:** Python/JavaScript codes used for data analysis, modeling, and generating the outputs.
 - **Reports & Documentation:** Research findings and analysis reports.
 
 
