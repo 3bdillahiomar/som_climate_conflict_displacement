@@ -32,7 +32,7 @@ Creates stacked percentage bar charts showing the distribution of displacement r
 QGIS files and map productions have been added to the relevant folders for spatial visualization and further analysis.
 
 ## 📫 Any feedback reach out to
-- **LinkedIn:** [Abdillahi Osman](https://www.linkedin.com/in/abdillahi-osman-omar-7b2724173/)
+- **LinkedIn:** [Abdillahi Omar](https://www.linkedin.com/in/abdillahi-osman-omar-7b2724173/)
 - **Email:** [abdillahiosmanomar@student.utwente.nl](mailto:abdillahiosmanomar@student.utwente.nl)
 
 ---
