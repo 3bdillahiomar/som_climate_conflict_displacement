@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- pycsw 2.4.0 -->
+<csw:GetRecordByIdResponse xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xmlns:ows="http://www.opengis.net/ows" xmlns:rim="urn:oasis:names:tc:ebxml-regrep:xsd:rim:3.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/cat/csw/2.0.2 http://schemas.opengis.net/csw/2.0.2/CSW-discovery.xsd">
+  <rim:ExtrinsicObject xsi:schemaLocation="http://www.opengis.net/cat/wrs/1.0 http://schemas.opengis.net/csw/2.0.2/profiles/ebrim/1.0/csw-ebrim.xsd" id="9b987ee4-09cd-11ea-886c-eab1b014fce8" lid="9b987ee4-09cd-11ea-886c-eab1b014fce8" objectType="dataset" status="urn:oasis:names:tc:ebxml-regrep:StatusType:Submitted">
+    <rim:VersionInfo versionName=""/>
+    <rim:ExternalIdentifier id="9b987ee4-09cd-11ea-886c-eab1b014fce8" identificationScheme="foo" registryObject="None" value="9b987ee4-09cd-11ea-886c-eab1b014fce8"/>
+    <rim:Name>
+      <rim:LocalizedString value="Administrative Regions Within Somalia"/>
+    </rim:Name>
+    <rim:Description>
+      <rim:LocalizedString value="Somalia country administrative boundary admin2 (Regionsof Somalia). The source of this data is United Nation Development Programme (UNEP) 1998. UNOCHA is contributor."/>
+    </rim:Description>
+    <rim:Slot slotType="urn:ogc:def:dataType:ISO-19107:2003:GM_Envelope">
+      <rim:ValueList>
+        <rim:Value>
+          <ows:BoundingBox crs="urn:x-ogc:def:crs:EPSG:6.11:4326" dimensions="2">
+            <ows:LowerCorner>-1.66491448879 40.9943161011</ows:LowerCorner>
+            <ows:UpperCorner>11.9852027893 51.4130363464</ows:UpperCorner>
+          </ows:BoundingBox>
+        </rim:Value>
+      </rim:ValueList>
+    </rim:Slot>
+    <rim:Slot name="http://purl.org/dc/elements/1.1/subject">
+      <rim:ValueList>
+        <rim:Value>feature</rim:Value>
+      </rim:ValueList>
+    </rim:Slot>
+  </rim:ExtrinsicObject>
+</csw:GetRecordByIdResponse>

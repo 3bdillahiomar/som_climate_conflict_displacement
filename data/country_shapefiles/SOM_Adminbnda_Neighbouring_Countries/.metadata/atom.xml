@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- pycsw 2.4.0 -->
+<csw:GetRecordByIdResponse xmlns:atom="http://www.w3.org/2005/Atom" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xmlns:ows="http://www.opengis.net/ows" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/cat/csw/2.0.2 http://schemas.opengis.net/csw/2.0.2/CSW-discovery.xsd">
+  <atom:entry xmlns:georss="http://www.georss.org/georss" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+    <atom:author>
+      <atom:name>FAO SWALIM</atom:name>
+    </atom:author>
+    <atom:contributor>FAO SWALIM</atom:contributor>
+    <atom:id>361bb4ae-09ce-11ea-886c-eab1b014fce8</atom:id>
+    <dc:identifier>361bb4ae-09ce-11ea-886c-eab1b014fce8</dc:identifier>
+    <atom:link href="https://spatial.faoswalim.org/uploaded/thumbs/layer-361bb4ae-09ce-11ea-886c-eab1b014fce8-thumb.png" title="Countries Neighboring Somalia (Thumbnail Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows" title="OGC WFS: geonode Service" type="OGC:WFS"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows" title="OGC WMS: geonode Service" type="OGC:WMS"/>
+    <atom:link href="19.002332687377900" title="Countries Neighboring Somalia (Remote Thumbnail Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image/png&amp;WIDTH=20&amp;HEIGHT=20&amp;LAYER=geonode:SOM_Adminbnda_Neighbouring_Countries&amp;STYLE=SOM_Adminbnda_Neighbouring_Countries&amp;legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on" title="Countries Neighboring Somalia (Legend Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/layers/geonode:SOM_Adminbnda_Neighbouring_Countries" title="Web address (URL)" type="WWW:LINK-1.0-http--link"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?srsName=EPSG%3A4326&amp;outputFormat=json&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;typename=geonode%3ASOM_Adminbnda_Neighbouring_Countries&amp;version=1.0.0" title="Countries Neighboring Somalia (GeoJSON Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?outputFormat=excel&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;typename=geonode%3ASOM_Adminbnda_Neighbouring_Countries&amp;version=1.0.0" title="Countries Neighboring Somalia (Excel Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?outputFormat=csv&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;typename=geonode%3ASOM_Adminbnda_Neighbouring_Countries&amp;version=1.0.0" title="Countries Neighboring Somalia (CSV Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;typename=geonode%3ASOM_Adminbnda_Neighbouring_Countries&amp;version=1.0.0" title="Countries Neighboring Somalia (GML 3.1.1 Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?outputFormat=gml2&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;typename=geonode%3ASOM_Adminbnda_Neighbouring_Countries&amp;version=1.0.0" title="Countries Neighboring Somalia (GML 2.0 Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?outputFormat=SHAPE-ZIP&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;format_options=charset%3AUTF-8&amp;typename=geonode%3ASOM_Adminbnda_Neighbouring_Countries&amp;version=1.0.0" title="Countries Neighboring Somalia (Zipped Shapefile Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?layers=geonode%3ASOM_Adminbnda_Neighbouring_Countries&amp;service=WMS&amp;format=image%2Fpng&amp;request=GetMap&amp;height=550&amp;width=500&amp;bbox=32.9999389648438%2C-4.67804670333862%2C54.5305290222168%2C19.0023326873779&amp;srs=EPSG%3A4326" title="Countries Neighboring Somalia (PNG Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?layers=geonode%3ASOM_Adminbnda_Neighbouring_Countries&amp;service=WMS&amp;format=application%2Fpdf&amp;request=GetMap&amp;height=550&amp;width=500&amp;bbox=32.9999389648438%2C-4.67804670333862%2C54.5305290222168%2C19.0023326873779&amp;srs=EPSG%3A4326" title="Countries Neighboring Somalia (PDF Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?layers=geonode%3ASOM_Adminbnda_Neighbouring_Countries&amp;service=WMS&amp;format=image%2Fjpeg&amp;request=GetMap&amp;height=550&amp;width=500&amp;bbox=32.9999389648438%2C-4.67804670333862%2C54.5305290222168%2C19.0023326873779&amp;srs=EPSG%3A4326" title="Countries Neighboring Somalia (JPEG Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/download/295" title="Countries Neighboring Somalia (Original Dataset Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/catalogue/csw?service=CSW&amp;version=2.0.2&amp;request=GetRepositoryItem&amp;id=361bb4ae-09ce-11ea-886c-eab1b014fce8"/>
+    <atom:title>Countries Neighboring Somalia</atom:title>
+    <atom:updated>2019-11-18T06:39:00Z</atom:updated>
+    <atom:published>2019-11-18T06:39:00Z</atom:published>
+    <atom:summary>Administrative boundaries of Somalia neighbouring countries</atom:summary>
+    <georss:where>
+      <gml:Envelope srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+        <gml:lowerCorner>-4.67804670334 32.9999389648</gml:lowerCorner>
+        <gml:upperCorner>19.0023326874 54.5305290222</gml:upperCorner>
+      </gml:Envelope>
+    </georss:where>
+  </atom:entry>
+</csw:GetRecordByIdResponse>

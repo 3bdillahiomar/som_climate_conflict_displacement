@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- pycsw 2.4.0 -->
+<csw:GetRecordByIdResponse xmlns:atom="http://www.w3.org/2005/Atom" xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xmlns:ows="http://www.opengis.net/ows" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/cat/csw/2.0.2 http://schemas.opengis.net/csw/2.0.2/CSW-discovery.xsd">
+  <atom:entry xmlns:georss="http://www.georss.org/georss" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+    <atom:author>
+      <atom:name>FAO SWALIM</atom:name>
+    </atom:author>
+    <atom:category term="administrative"/>
+    <atom:category term="somalia"/>
+    <atom:contributor>FAO SWALIM</atom:contributor>
+    <atom:id>574dd1e0-09cc-11ea-886c-eab1b014fce8</atom:id>
+    <dc:identifier>574dd1e0-09cc-11ea-886c-eab1b014fce8</dc:identifier>
+    <atom:link href="https://spatial.faoswalim.org/uploaded/thumbs/layer-574dd1e0-09cc-11ea-886c-eab1b014fce8-thumb.png" title="Somalia Administrative Boundary (Thumbnail Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows" title="OGC WFS: geonode Service" type="OGC:WFS"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows" title="OGC WMS: geonode Service" type="OGC:WMS"/>
+    <atom:link href="11.985202789306600" title="Somalia Administrative Boundary (Remote Thumbnail Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?service=WMS&amp;request=GetLegendGraphic&amp;format=image/png&amp;WIDTH=20&amp;HEIGHT=20&amp;LAYER=geonode:SOM_Adminbnda_Adm0_Country_UNOCHA&amp;STYLE=SOM_Adminbnda_Adm0_Country_UNOCHA&amp;legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on" title="Somalia Administrative Boundary (Legend Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/layers/geonode:SOM_Adminbnda_Adm0_Country_UNOCHA" title="Web address (URL)" type="WWW:LINK-1.0-http--link"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?srsName=EPSG%3A4326&amp;outputFormat=json&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;typename=geonode%3ASOM_Adminbnda_Adm0_Country_UNOCHA&amp;version=1.0.0" title="Somalia Administrative Boundary (GeoJSON Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?outputFormat=excel&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;typename=geonode%3ASOM_Adminbnda_Adm0_Country_UNOCHA&amp;version=1.0.0" title="Somalia Administrative Boundary (Excel Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?outputFormat=csv&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;typename=geonode%3ASOM_Adminbnda_Adm0_Country_UNOCHA&amp;version=1.0.0" title="Somalia Administrative Boundary (CSV Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;typename=geonode%3ASOM_Adminbnda_Adm0_Country_UNOCHA&amp;version=1.0.0" title="Somalia Administrative Boundary (GML 3.1.1 Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?outputFormat=gml2&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;typename=geonode%3ASOM_Adminbnda_Adm0_Country_UNOCHA&amp;version=1.0.0" title="Somalia Administrative Boundary (GML 2.0 Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?outputFormat=SHAPE-ZIP&amp;service=WFS&amp;srs=EPSG%3A4326&amp;request=GetFeature&amp;format_options=charset%3AUTF-8&amp;typename=geonode%3ASOM_Adminbnda_Adm0_Country_UNOCHA&amp;version=1.0.0" title="Somalia Administrative Boundary (Zipped Shapefile Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?layers=geonode%3ASOM_Adminbnda_Adm0_Country_UNOCHA&amp;service=WMS&amp;format=image%2Fpng&amp;request=GetMap&amp;height=550&amp;width=419&amp;bbox=40.9943161010742%2C-1.66491448879242%2C51.4130363464355%2C11.9852027893066&amp;srs=EPSG%3A4326" title="Somalia Administrative Boundary (PNG Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?layers=geonode%3ASOM_Adminbnda_Adm0_Country_UNOCHA&amp;service=WMS&amp;format=application%2Fpdf&amp;request=GetMap&amp;height=550&amp;width=419&amp;bbox=40.9943161010742%2C-1.66491448879242%2C51.4130363464355%2C11.9852027893066&amp;srs=EPSG%3A4326" title="Somalia Administrative Boundary (PDF Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/geoserver/ows?layers=geonode%3ASOM_Adminbnda_Adm0_Country_UNOCHA&amp;service=WMS&amp;format=image%2Fjpeg&amp;request=GetMap&amp;height=550&amp;width=419&amp;bbox=40.9943161010742%2C-1.66491448879242%2C51.4130363464355%2C11.9852027893066&amp;srs=EPSG%3A4326" title="Somalia Administrative Boundary (JPEG Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/download/290" title="Somalia Administrative Boundary (Original Dataset Format)" type="WWW:DOWNLOAD-1.0-http--download"/>
+    <atom:link href="https://spatial.faoswalim.org/catalogue/csw?service=CSW&amp;version=2.0.2&amp;request=GetRepositoryItem&amp;id=574dd1e0-09cc-11ea-886c-eab1b014fce8"/>
+    <atom:title>Somalia Administrative Boundary</atom:title>
+    <atom:updated>2019-11-18T06:26:00Z</atom:updated>
+    <atom:published>2019-11-18T06:26:00Z</atom:published>
+    <atom:summary>Somaliacountry administrative boundaryadmin 0 (Country of Somalia). The source of this data is United Nation Development Programme (UNEP) 1998. UNOCHA is a contributor.</atom:summary>
+    <georss:where>
+      <gml:Envelope srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+        <gml:lowerCorner>-1.66491448879 40.9943161011</gml:lowerCorner>
+        <gml:upperCorner>11.9852027893 51.4130363464</gml:upperCorner>
+      </gml:Envelope>
+    </georss:where>
+  </atom:entry>
+</csw:GetRecordByIdResponse>

@@ -8,7 +8,7 @@ For my MSc thesis at the Faculty of Geo-Information Science and Earth Observatio
 ## Contents
 
 The repository includes:
-- **Datasets:** Aggregated drought, flood, conflict, and displacement data relevant to Somalia, extracted from relevent databases (full description check the data management plan).
+- **Datasets:** Aggregated drought, flood, conflict, and displacement data relevant to Somalia, extracted from relevant databases (full description check the data management plan).
 - **Scripts:** Python/JavaScript codes used for data analysis, modeling, and generating the outputs.
 - **Reports & Documentation:** Research findings and analysis reports.
 
