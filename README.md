@@ -1,4 +1,4 @@
-# Somalia Climate Conflict Displacement Research
+# Towards disentangling the interrelationships between hydro-meteorological hazards, conflict and displacement: a case study (for droughts and floods) in Somalia 
 
 The repository here is part of thesis research about **disentangling the complex interrelationships between hydro-meteorological hazards, conflict, and displacement in Somalia**, with a specific focus on droughts and floods. It analyses climate extremes alongside conflict events and displacement patterns; the study also aims to provide insights into how these factors interact spatially and temporally for the period 2022-2023.
 
